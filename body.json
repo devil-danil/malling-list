@@ -1,0 +1,21 @@
+{
+    "modelUri": "gpt://b1g09eajkf56i2ia8065/yandexgpt",
+    "completionOptions": {
+      "stream": false,
+      "temperature": 0.6,
+      "maxTokens": "2000",
+      "reasoningOptions": {
+        "mode": "DISABLED"
+      }
+    },
+    "messages": [
+      {
+        "role": "system",
+        "text": "Ты умный ассистент"
+      },
+      {
+        "role": "user", 
+        "text": "https://www.it-world.ru/lenta/ вот этот источник новостей можешь комментировать?"
+      }
+    ]
+  }

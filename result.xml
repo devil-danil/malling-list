@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yandexsearch version="1.0">
+<request>
+<query>Яндекс</query>
+<page>4</page>
+<sortby order="descending" priority="no">rlv</sortby>
+<maxpassages>3</maxpassages>
+<groupings>
+<groupby attr="d" mode="deep" groups-on-page="5" docs-in-group="3" curcateg="-1"/>
+</groupings>
+</request>
+<response date="20250309T210155">
+<reqid>1741554115259281-7098962227060175315-balancer-l7leveler-kubr-yp-vla-85-BAL</reqid>
+<found priority="phrase">4349330</found>
+<found priority="strict">4349330</found>
+<found priority="all">4349330</found>
+<found-human>Нашлось 4 млн ответов</found-human>
+<is-local>no</is-local>
+<results>
+<grouping attr="d" mode="deep" groups-on-page="5" docs-in-group="3" curcateg="-1">
+<page first="21" last="25">4</page>
+<group>
+<categ attr="d" name="tv.yandex.ru"/>
+<doccount>49</doccount>
+<relevance priority="all"/>
+<doc id="Z3440576D63581059">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1741554115&amp;tld=ru&amp;lang=ru&amp;la=1741468672&amp;text=%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&amp;url=https%3A//tv.yandex.ru/&amp;l10n=ru&amp;mime=html&amp;sign=7403b6f97d3c9008ac7a7315bf906432&amp;keyno=0</saved-copy-url>
+<url>https://tv.yandex.ru/</url>
+<domain>tv.yandex.ru</domain>
+<title>Программа передач ТВ — <hlword>Яндекс</hlword>.Телепрограмма</title>
+<modtime>20061112T030000</modtime>
+<size>1219</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Программа передач всех популярных телеканалов на <hlword>Яндекс</hlword>.Телепрограмме - фильмы, сериалы, спорт, новости, познавательная документалистика и другие передачи.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="habr.com"/>
+<doccount>25</doccount>
+<relevance priority="all"/>
+<doc id="Z4215080A7E8211FB">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1741554115&amp;tld=ru&amp;lang=ru&amp;la=1740876160&amp;text=%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&amp;url=https%3A//habr.com/ru/companies/yandex/profile/&amp;l10n=ru&amp;mime=html&amp;sign=4966616fc3b2e9b86343b3013891f62e&amp;keyno=0</saved-copy-url>
+<url>https://habr.com/ru/companies/yandex/profile/</url>
+<domain>habr.com</domain>
+<title>О компании <hlword>Яндекс</hlword> / Хабр</title>
+<modtime>20190115T030000</modtime>
+<size>836</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Яндекс</hlword> — технологическая компания. В основе наших сервисов лежат сложные, уникальные, трудно воспроизводимые технологии.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="ir.yandex.ru"/>
+<doccount>16</doccount>
+<relevance priority="all"/>
+<doc id="Z011CFD9E73731CCB">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1741554115&amp;tld=ru&amp;lang=ru&amp;la=1740881920&amp;text=%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&amp;url=https%3A//ir.yandex.ru/about&amp;l10n=ru&amp;mime=html&amp;sign=4135ab3705f2ec0968e2b941d2a95a26&amp;keyno=0</saved-copy-url>
+<url>https://ir.yandex.ru/about</url>
+<domain>ir.yandex.ru</domain>
+<title>Важное про <hlword>Яндекс</hlword> | Сайт для Инвесторов | <hlword>Яндекс</hlword></title>
+<modtime>20221016T032230</modtime>
+<size>868</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Яндекс</hlword> занимает ведущие позиции на многих рынках с трендом на долгосрочный и устойчивый рост.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="iz.ru"/>
+<doccount>6</doccount>
+<relevance priority="all"/>
+<doc id="Z76DB9135C9B7E5A9">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1741554115&amp;tld=ru&amp;lang=ru&amp;la=1741470336&amp;text=%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&amp;url=https%3A//iz.ru/tag/iandeks&amp;l10n=ru&amp;mime=html&amp;sign=3ed34c2e24a11b8308cd4f64f3fa1d1a&amp;keyno=0</saved-copy-url>
+<url>https://iz.ru/tag/iandeks</url>
+<domain>iz.ru</domain>
+<title><hlword>Яндекс</hlword> — последние и свежие новости сегодня и за 2025 год на iz.ru</title>
+<modtime>20170603T153955</modtime>
+<size>2071</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Яндекс</hlword> сегодня — В ВТБ рассказали о сотрудничестве с игроками в сферах финтеха. телекома и транспорта.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="rbc.ru"/>
+<doccount>24</doccount>
+<relevance priority="all"/>
+<doc id="Z7122C8DA4C1B4916">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1741554115&amp;tld=ru&amp;lang=ru&amp;la=1740886784&amp;text=%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&amp;url=https%3A//www.rbc.ru/tags/%3Ftag%3D%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581&amp;l10n=ru&amp;mime=html&amp;sign=219147fabd12b8459670b6d2eaf17ff3&amp;keyno=0</saved-copy-url>
+<url>https://www.rbc.ru/tags/?tag=%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81</url>
+<domain>www.rbc.ru</domain>
+<title><hlword>Яндекс</hlword> — последние новости сегодня на РБК.Ру</title>
+<modtime>20151006T124927</modtime>
+<size>3233</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>«<hlword>Яндекс</hlword>» перезапустил чат с «Алисой» на новой нейросети В чат с «Алисой Про» внедрили языковую модель YandexGPT 5 Pro.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<found priority="phrase">379</found>
+<found priority="strict">379</found>
+<found priority="all">379</found>
+<found-docs priority="phrase">4349104</found-docs>
+<found-docs priority="strict">4349104</found-docs>
+<found-docs priority="all">4349104</found-docs>
+<found-docs-human>нашёл 4 млн ответов</found-docs-human>
+</grouping>
+</results>
+</response>
+</yandexsearch>
